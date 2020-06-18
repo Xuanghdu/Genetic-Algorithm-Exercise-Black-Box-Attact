@@ -1,1 +1,2 @@
-For genetic algorithm learning.
+- *.ipyb are for genetic algorithm learning as presented in https://arxiv.org/pdf/1805.07820.pdf. Half done. 
+- string.py is an implementation of https://www.geeksforgeeks.org/genetic-algorithms/. The code uses the string representation for genes, uniform crossover, and uniform mutation. The population consists of the original elite pop, their crossovers, and their mutation counterparts.
